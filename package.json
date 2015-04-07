@@ -1,0 +1,7 @@
+{
+  "name": "issue-543",
+  "private": true,
+  "devDependencies": {
+    "express": "^4.12.3"
+  }
+}
